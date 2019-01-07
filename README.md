@@ -8,3 +8,4 @@ Here is the result :
 
 ![alt text](result.jpg)
 
+![alt text](rocket_3d.png)
